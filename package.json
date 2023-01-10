@@ -42,7 +42,7 @@
     "apollo-server": "^2.19.2",
     "class-transformer": "^0.3.1",
     "class-validator": "^0.12.2",
-    "convict": "^6.0.0",
+    "convict": "^6.2.4",
     "discord-nestjs": "^0.3.6",
     "discord.js": "^12.5.1",
     "find-up": "^5.0.0",
